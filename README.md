@@ -1,6 +1,6 @@
 # Project: Pagerank
 
-The PageRank algorithm is a vital algorithm used commonly in many popular search algorithms such a Google to rank webpages based on their order of priority (This algorithm was done as part of CS50 Introduction to AI using python course).
+The PageRank algorithm is a vital algorithm used commonly in many popular search algorithms, such as Google, to rank webpages based on their order of priority (This algorithm was done as part of CS50 Introduction to AI using python course online on HarvardX).
 
 ## Core features
 * **Random Surfer Model:** Simulates user browsing behavior using weighted probability distribution.
@@ -18,7 +18,7 @@ PageRank Results from Iteration
   2.html: 0.5695
   3.html: 0.2103
 ```
-**The output displays the likelihood of a user landing at each of the 3 HTML files (example files) as a probability ranging from 0 - 1 **
+**NOTE: The output displays the likelihood of a user landing at each of the 3 HTML files (example files) as a probability ranging from 0 - 1 **
 
 ## Main libraries used for program
 * `random` - Used for structural weighted choice simulations.
