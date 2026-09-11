@@ -18,7 +18,7 @@ PageRank Results from Iteration
   2.html: 0.5695
   3.html: 0.2103
 ```
-**NOTE: The output displays the likelihood of a user landing at each of the 3 HTML files (example files) as a probability ranging from 0 - 1 **
+**NOTE:** The output displays the likelihood of a user landing at each of the 3 HTML files (example files) as a probability ranging from 0 - 1 
 
 ## Main libraries used for program
 * `random` - Used for structural weighted choice simulations.
